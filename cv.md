@@ -19,6 +19,7 @@ I am always looking for ways to improve and grow. I am also a great team player
   * JavaScript(beginner)
   * HTML
   * CSS
+  
 **Development Software:**
   * Sublime Text3
   * Git
