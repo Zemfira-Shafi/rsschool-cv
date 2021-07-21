@@ -44,6 +44,8 @@ body {
 }
 .wrapper {
     display: flex;
+    margin-left: 20px;
+    
 }
 .name {
     margin-left: 50px;
@@ -62,5 +64,35 @@ h1 {
 
 }
 .contacts  {
-    
+    margin: 170px 0px 0px -450px;
+    text-align: center;
+}
+.contacts_list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contacts-icon {
+    margin-bottom: 10px; 
+}
+.contacts_list-item {
+    margin-right: 100px; 
+}
+.contacts-text {
+    font-size: 15px;
+}
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block {
+    flex: 0 1 50%;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+.footer-element_item {
+    width: 70px;
 }
